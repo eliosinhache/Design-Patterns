@@ -44,16 +44,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractFactoryMethodRun.cs" />
-    <Compile Include="AbstractFactoryMethod\Furniture.cs" />
-    <Compile Include="AbstractFactoryMethod\IAbstractFactory.cs" />
-    <Compile Include="AbstractFactoryMethod\ModernFurnitureFactory.cs" />
+    <Compile Include="Creationals\AbstractFactoryMethod\Furniture.cs" />
+    <Compile Include="Creationals\AbstractFactoryMethod\IAbstractFactory.cs" />
+    <Compile Include="Creationals\AbstractFactoryMethod\FurnitureFactory.cs" />
+    <Compile Include="Creationals\FactoryMethod\Unit.cs" />
+    <Compile Include="Creationals\FactoryMethod\UnitFactory.cs" />
     <Compile Include="FactoryMethodRun.cs" />
-    <Compile Include="FactoryMethod\Archer.cs" />
-    <Compile Include="FactoryMethod\ArcherCreator.cs" />
-    <Compile Include="FactoryMethod\CreatorBase.cs" />
-    <Compile Include="FactoryMethod\IWarrior.cs" />
-    <Compile Include="FactoryMethod\Soldier.cs" />
-    <Compile Include="FactoryMethod\SoldierCreator.cs" />
+    <Compile Include="Creationals\FactoryMethod\CreatorBase.cs" />
+    <Compile Include="Creationals\FactoryMethod\IWarrior.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
