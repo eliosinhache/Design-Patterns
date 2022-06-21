@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractFactoryMethodRun.cs" />
+    <Compile Include="AbstractFactoryMethod\Furniture.cs" />
+    <Compile Include="AbstractFactoryMethod\IAbstractFactory.cs" />
+    <Compile Include="AbstractFactoryMethod\ModernFurnitureFactory.cs" />
     <Compile Include="FactoryMethodRun.cs" />
     <Compile Include="FactoryMethod\Archer.cs" />
     <Compile Include="FactoryMethod\ArcherCreator.cs" />
