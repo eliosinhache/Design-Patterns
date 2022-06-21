@@ -11,7 +11,8 @@ namespace Design_Patterns
         static void Main(string[] args)
         {
             //FactoryMethodRun factoryMethor = new FactoryMethodRun();
-            AbstractFactoryMethodRun factoryMethod = new AbstractFactoryMethodRun();
+            //AbstractFactoryMethodRun factoryMethod = new AbstractFactoryMethodRun();
+            SingletonRun singleton = new SingletonRun();
             Console.ReadLine();
         }
     }

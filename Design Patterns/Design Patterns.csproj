@@ -49,11 +49,13 @@
     <Compile Include="Creationals\AbstractFactoryMethod\FurnitureFactory.cs" />
     <Compile Include="Creationals\FactoryMethod\Unit.cs" />
     <Compile Include="Creationals\FactoryMethod\UnitFactory.cs" />
+    <Compile Include="Creationals\Singleton\Singleton.cs" />
     <Compile Include="FactoryMethodRun.cs" />
     <Compile Include="Creationals\FactoryMethod\CreatorBase.cs" />
     <Compile Include="Creationals\FactoryMethod\IWarrior.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SingletonRun.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
