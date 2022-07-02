@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioral\Observer\Clients.cs" />
+    <Compile Include="Behavioral\Observer\IObserver.cs" />
+    <Compile Include="Behavioral\Observer\ISubject.cs" />
+    <Compile Include="Behavioral\Observer\Market.cs" />
     <Compile Include="Creationals\AbstractFactoryMethod\Furniture.cs" />
     <Compile Include="Creationals\AbstractFactoryMethod\IAbstractFactory.cs" />
     <Compile Include="Creationals\AbstractFactoryMethod\FurnitureFactory.cs" />
@@ -55,6 +59,7 @@
     <Compile Include="PatternsRunners\AdapterRun.cs" />
     <Compile Include="PatternsRunners\FacadeRun.cs" />
     <Compile Include="PatternsRunners\FactoryMethodRun.cs" />
+    <Compile Include="PatternsRunners\ObserverRun.cs" />
     <Compile Include="PatternsRunners\SingletonRun.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -65,9 +70,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Behavioral\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
