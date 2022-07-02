@@ -1,7 +1,7 @@
-﻿using Design_Patterns.Creationals.FactoryMethod;
-using System;
+﻿using System;
+using Design_Patterns.Creationals.FactoryMethod;
 
-namespace Design_Patterns
+namespace Design_Patterns.PatternsRunners
 {
     class FactoryMethodRun
     {

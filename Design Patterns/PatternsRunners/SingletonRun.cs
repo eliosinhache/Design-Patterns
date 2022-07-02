@@ -1,11 +1,7 @@
-﻿using Design_Patterns.Creationals.Singleton;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
+using Design_Patterns.Creationals.Singleton;
 
-namespace Design_Patterns
+namespace Design_Patterns.PatternsRunners
 {
     class SingletonRun
     {

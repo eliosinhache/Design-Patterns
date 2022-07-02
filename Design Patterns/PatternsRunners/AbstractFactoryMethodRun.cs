@@ -1,7 +1,7 @@
-﻿using Design_Patterns.Creationals.AbstractFactoryMethod;
-using System;
+﻿using System;
+using Design_Patterns.Creationals.AbstractFactoryMethod;
 
-namespace Design_Patterns
+namespace Design_Patterns.PatternsRunners
 {
     class AbstractFactoryMethodRun
     {

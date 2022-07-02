@@ -1,6 +1,6 @@
 ﻿using Design_Patterns.Structurals.Facade;
 
-namespace Design_Patterns
+namespace Design_Patterns.PatternsRunners
 {
     internal class FacadeRun
     {
