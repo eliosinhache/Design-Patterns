@@ -13,7 +13,8 @@ namespace Design_Patterns
             //FactoryMethodRun factoryMethor = new FactoryMethodRun();
             //AbstractFactoryMethodRun factoryMethod = new AbstractFactoryMethodRun();
             //SingletonRun singleton = new SingletonRun();
-            FacadeRun facade = new FacadeRun();
+            //FacadeRun facade = new FacadeRun();
+            AdapterRun adapter = new AdapterRun();
             Console.ReadLine();
         }
     }
