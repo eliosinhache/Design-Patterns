@@ -47,6 +47,9 @@
     <Compile Include="Behavioral\Observer\IObserver.cs" />
     <Compile Include="Behavioral\Observer\ISubject.cs" />
     <Compile Include="Behavioral\Observer\Market.cs" />
+    <Compile Include="Behavioral\Strategy\Context.cs" />
+    <Compile Include="Behavioral\Strategy\IStrategy.cs" />
+    <Compile Include="Behavioral\Strategy\Strategy.cs" />
     <Compile Include="Creationals\AbstractFactoryMethod\Furniture.cs" />
     <Compile Include="Creationals\AbstractFactoryMethod\IAbstractFactory.cs" />
     <Compile Include="Creationals\AbstractFactoryMethod\FurnitureFactory.cs" />
@@ -61,6 +64,7 @@
     <Compile Include="PatternsRunners\FactoryMethodRun.cs" />
     <Compile Include="PatternsRunners\ObserverRun.cs" />
     <Compile Include="PatternsRunners\SingletonRun.cs" />
+    <Compile Include="PatternsRunners\StrategyRun.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structurals\Adapter\Adapter.cs" />

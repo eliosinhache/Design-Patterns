@@ -16,7 +16,8 @@ namespace Design_Patterns
             //SingletonRun singleton = new SingletonRun();
             // FacadeRun facade = new FacadeRun();
             // AdapterRun adapter = new AdapterRun();
-            ObserverRun observer = new ObserverRun();
+            // ObserverRun observer = new ObserverRun();
+            StrategyRun strategy = new StrategyRun();
             Console.ReadLine();
         }
     }
