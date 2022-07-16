@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioral\Command\Account.cs" />
+    <Compile Include="Behavioral\Command\Command.cs" />
+    <Compile Include="Behavioral\Command\DepositImplementation.cs" />
+    <Compile Include="Behavioral\Command\ExtractImplementation.cs" />
+    <Compile Include="Behavioral\Command\Invoker.cs" />
     <Compile Include="Behavioral\Observer\Clients.cs" />
     <Compile Include="Behavioral\Observer\IObserver.cs" />
     <Compile Include="Behavioral\Observer\ISubject.cs" />
@@ -60,6 +65,7 @@
     <Compile Include="Creationals\FactoryMethod\IWarrior.cs" />
     <Compile Include="PatternsRunners\AbstractFactoryMethodRun.cs" />
     <Compile Include="PatternsRunners\AdapterRun.cs" />
+    <Compile Include="PatternsRunners\CommandRun.cs" />
     <Compile Include="PatternsRunners\FacadeRun.cs" />
     <Compile Include="PatternsRunners\FactoryMethodRun.cs" />
     <Compile Include="PatternsRunners\ObserverRun.cs" />

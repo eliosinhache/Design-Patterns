@@ -4,10 +4,7 @@
     <projectFile>Design Patterns.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f61094a-5337-4e33-aa4b-404afe6473a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="8f61094a-5337-4e33-aa4b-404afe6473a0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +60,7 @@
       <updated>1656725372762</updated>
       <workItem from="1656725381735" duration="2184000" />
       <workItem from="1656864716408" duration="596000" />
-      <workItem from="1656900576187" duration="1046000" />
+      <workItem from="1656900576187" duration="1156000" />
     </task>
     <servers />
   </component>

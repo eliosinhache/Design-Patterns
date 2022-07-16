@@ -17,7 +17,8 @@ namespace Design_Patterns
             // FacadeRun facade = new FacadeRun();
             // AdapterRun adapter = new AdapterRun();
             // ObserverRun observer = new ObserverRun();
-            StrategyRun strategy = new StrategyRun();
+            //StrategyRun strategy = new StrategyRun();
+            CommandRun command = new CommandRun();
             Console.ReadLine();
         }
     }
